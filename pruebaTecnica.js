@@ -4,12 +4,7 @@ const categories = [
         subcategories: [
             {
                 name: 'category2',
-                subcategories: [
-                    {
-                        name: 'category7',
-                        subcategories: []
-                    }
-                ]
+                subcategories: []
             },
             {
                 name: 'category3',
